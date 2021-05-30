@@ -1,0 +1,22 @@
+body{
+    background-image: url("backdrop.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+input{
+    width: 400px !important;
+    
+}
+h1{
+  font-weight: bold;
+  font-style:unset;
+  color: black;
+}
+h3{
+    font-weight: bold;
+    font-style: oblique !important;
+    color: white;
+    background-color: black;
+    width: 200px;
+    border-radius: 5px;
+}
